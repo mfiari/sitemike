@@ -39,7 +39,7 @@
         <!--header-->
         <div id="header" class="clearfix container_12">
         	
-            <div class="grid_5">
+            <div class="grid_4">
                 <!--logo-floater-->
                 <div id="logo-floater"> 
         			<?php if ($logo): ?>
@@ -63,7 +63,7 @@
                 <!--EOF:logo-floater-->
             </div>
 
-            <div class="grid_7">
+            <div class="grid_8">
                 <!--navigation-->
                 <div id="navigation">
                     <?php if ($page['navigation']) :?>

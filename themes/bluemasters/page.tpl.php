@@ -12,7 +12,7 @@
             
             <div class="grid_2">
                 <!--header-top-inside-left-feed-->
-                <div id="header-top-inside-left-feed">
+                <!--<div id="header-top-inside-left-feed">
                     <div id="topSocial">
                     <ul>									
                         <li><a class="twitter" href="http://twitter.com/morethanthemes" title="Follow Us on Twitter!"></a></li>
@@ -20,7 +20,7 @@
                         <li><a class="rss" title="RSS" href="#" title="Subcribe to Our RSS Feed"></a></li>
                     </ul>
                     </div>
-                </div>
+                </div>-->
                 <!--EOF:header-top-inside-left-feed-->
             </div>
             

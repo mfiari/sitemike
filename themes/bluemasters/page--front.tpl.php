@@ -12,7 +12,7 @@
 
             <div class="grid_2">
                 <!--header-top-inside-left-feed-->
-                <div id="header-top-inside-left-feed">
+                <!--<div id="header-top-inside-left-feed">
                     <div id="topSocial">
                     <ul>									
                         <li><a class="twitter" href="http://twitter.com/morethanthemes" title="Follow Us on Twitter!"></a></li>
@@ -20,7 +20,7 @@
                         <li><a class="rss" title="RSS" href="#" title="Subcribe to Our RSS Feed"></a></li>
                     </ul>
                     </div>
-                </div>
+                </div>-->
                 <!--EOF:header-top-inside-left-feed-->
             </div>
             
@@ -239,7 +239,10 @@
             </div>
 
             <div class="grid_12">
-        	   <div class="credits-container" style="clear:both; padding-top:12px;">Ported to Drupal for the Open Source Community by <a href="http://www.drupalizing.com">Drupalizing</a>, a Project of <a href="http://www.morethanthemes.com">More than Themes</a></div>     
+        	   <!--<div class="credits-container" style="clear:both; padding-top:12px;">
+					Ported to Drupal for the Open Source Community by <a href="http://www.drupalizing.com">Drupalizing</a>, 
+					a Project of <a href="http://www.morethanthemes.com">More than Themes</a>
+				</div>-->
             </div>
 
         </div>
@@ -247,10 +250,10 @@
         <div class="container_12">
 
             <div class="grid_12">
-                <div class="credits-container clearfix">
+                <!--<div class="credits-container clearfix">
                     <a title="Brought To You By: www.SmashingMagazine.com" class="smashing" href="http://www.smashingmagazine.com" target="_blank">Brought to you By: www.SmashingMagazine.com</a>
                     <a title="Drupalizing" class="drupalizing" href="http://www.drupalizing.com" target="_blank">Drupalizing</a> 
-                </div>
+                </div>-->
             </div>
 
         </div>  
